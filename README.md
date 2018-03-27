@@ -16,3 +16,6 @@ From within the top-level directory (above `server`):
 - `npm start`
 
 
+## Completed example
+
+The `completed` directory contains a completed version of the project.
